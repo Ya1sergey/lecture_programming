@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\eximple_001_hello_world\\eximple_001_hello_world.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\example_001_hello_world\\eximple_001_hello_world.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\eximple_001_hello_world\\eximple_001_hello_world.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\example_001_hello_world\\eximple_001_hello_world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\eximple_001_hello_world\\eximple_001_hello_world.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\example_001_hello_world\\eximple_001_hello_world.csproj",
         "projectName": "eximple_001_hello_world",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\eximple_001_hello_world\\eximple_001_hello_world.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\example_001_hello_world\\eximple_001_hello_world.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\eximple_001_hello_world\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Gb\\4. Введение в программирование\\Лекции\\lesson_1\\example_001_hello_world\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
